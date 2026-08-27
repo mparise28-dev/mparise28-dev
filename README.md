@@ -40,19 +40,6 @@ Gosto de entender como as coisas funcionam e transformar o que aprendo em **proj
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparise28-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mparise28-dev&layout=compact&theme=radical)
-
-**Dados rápidos:**
-- 📝 **Total de Commits:** 316
-- 🔀 **Pull Requests:** 60
-- 🐛 **Issues:** 14
-- 🤝 **Contribuições:** 17 repositórios
 
 ---
 
@@ -70,6 +57,4 @@ Estou em transição de carreira e buscando minha primeira oportunidade como **d
 
 ---
 
-> *"De ensinar o passado a construir o futuro"*
 
-**Bora codar, camarada!** 🚀
