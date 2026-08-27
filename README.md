@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Marcello Parise
 
-**Professor de História → Desenvolvedor em formação**
+**De ensinar o passado a construir o futuro.** 🏛️→💻
+
+![Status](https://img.shields.io/badge/Status-Em%20Transição-blueviolet?style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mparise28-dev.mparise28-dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mparise28-dev)
@@ -15,6 +18,15 @@ Sou professor de História e estudante de **Desenvolvimento de Software Multipla
 Minha trajetória começou na sala de aula, mas a tecnologia sempre esteve no radar. Hoje, estou em transição de carreira, unindo a experiência da educação com o aprendizado constante em programação.
 
 Gosto de entender como as coisas funcionam e transformar o que aprendo em **projetos práticos**. Minha formação em História me ensinou a ter curiosidade, pesquisar a fundo e aprender continuamente - habilidades que levo para o código.
+
+---
+
+## 🤓 Curiosidades sobre mim
+
+- 🏛️ Dei aula para Fundamental, Ensino Médio e EJA
+- ❓ Minha pergunta favorita é: *"Mas por que isso acontece?"*
+- 📚 Acredito que saber explicar é mais importante que saber fazer
+- 😤 Se algo não funciona, eu fico puto... mas continuo até resolver
 
 ---
 
@@ -40,6 +52,19 @@ Gosto de entender como as coisas funcionam e transformar o que aprendo em **proj
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparise28-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mparise28-dev&layout=compact&theme=radical)
+
+**Dados rápidos:**
+- 📝 **Total de Commits:** 316
+- 🔀 **Pull Requests:** 60
+- 🐛 **Issues:** 14
+- 🤝 **Contribuições:** 17 repositórios
 
 ---
 
@@ -57,4 +82,6 @@ Estou em transição de carreira e buscando minha primeira oportunidade como **d
 
 ---
 
+> *"De ensinar o passado a construir o futuro"*
 
+**Bora codar, camarada!** 🚀
