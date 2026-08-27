@@ -2,9 +2,9 @@
 
 **Professor de História → Desenvolvedor em formação**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](SEU_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mparise28-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelloparise28@gmail.com)
 
 ---
 
@@ -33,7 +33,6 @@ Gosto de entender como as coisas funcionam e transformar o que aprendo em **proj
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,13 +42,34 @@ Gosto de entender como as coisas funcionam e transformar o que aprendo em **proj
 
 ---
 
-## 📚 O que estou estudando agora
+## 📊 Estatísticas do GitHub
 
-- 🚀 Aprofundando em **Node.js** e **Express**
-- 🐳 Explorando **Docker** e containers
-- 📊 Visualização de dados com **Python** e **Matplotlib**
-- 🧠 Lógica de programação e algoritmos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparise28-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mparise28-dev&layout=compact&theme=radical)
+
+**Dados rápidos:**
+- 📝 **Total de Commits:** 316
+- 🔀 **Pull Requests:** 60
+- 🐛 **Issues:** 14
+- 🤝 **Contribuições:** 17 repositórios
 
 ---
 
-## 📊 Minha evolução
+## 🎯 Objetivo
+
+Estou em transição de carreira e buscando minha primeira oportunidade como **desenvolvedor trainee ou júnior**. Quero entrar no mercado, ganhar experiência e evoluir como profissional, sempre com a curiosidade de quem quer entender o *porquê* das coisas.
+
+---
+
+## 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mparise28-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelloparise28@gmail.com)
+
+---
+
+> *"De ensinar o passado a construir o futuro"*
+
+**Bora codar, camarada!** 🚀
