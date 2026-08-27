@@ -9,3 +9,9 @@ Professor de História → Desenvolvedor em formação 💻
 </p>
 
 <br>
+
+Sobre mim
+
+Sou professor de História e estudante de Desenvolvimento de Software Multiplataforma na FATEC. Atualmente, estou focado em desenvolvimento web, construindo projetos e aprofundando meus conhecimentos em JavaScript, TypeScript, Node.js, Python, SQL e PostgreSQL.
+
+Gosto de entender como as coisas funcionam e transformar o que aprendo em projetos práticos. Minha formação em História e minha experiência com educação também influenciam minha forma de aprender e resolver problemas: com curiosidade, pesquisa e disposição para aprender continuamente.
