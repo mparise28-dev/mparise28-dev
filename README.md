@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcello Parise
 
-**De ensinar o passado a construir o futuro.** 🏛️→💻
+**Professor de História → Desenvolvedor em formação**
 
 ![Status](https://img.shields.io/badge/Status-Em%20Transição-blueviolet?style=for-the-badge)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mparise28-dev.mparise28-dev)
@@ -13,20 +13,13 @@
 
 ## 📖 Sobre mim
 
-Sou professor de História e estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Jacareí. 
+Sou professor de História e estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Jacareí.
 
-Minha trajetória começou na sala de aula, mas a tecnologia sempre esteve no radar. Hoje, estou em transição de carreira, unindo a experiência da educação com o aprendizado constante em programação.
+Passei anos na sala de aula - Fundamental, Ensino Médio e EJA - aprendendo a ler contextos, analisar estruturas e explicar o complexo de forma simples. Habilidades que não ficaram na escola: hoje, aplico tudo isso na programação.
 
-Gosto de entender como as coisas funcionam e transformar o que aprendo em **projetos práticos**. Minha formação em História me ensinou a ter curiosidade, pesquisar a fundo e aprender continuamente - habilidades que levo para o código.
+A transição não foi um abandono. Foi uma expansão. A mesma curiosidade que me fez perguntar "por que isso aconteceu?" agora me faz perguntar "por que isso funciona assim?".
 
----
-
-## 🤓 Curiosidades sobre mim
-
-- 🏛️ Dei aula para Fundamental, Ensino Médio e EJA
-- ❓ Minha pergunta favorita é: *"Mas por que isso acontece?"*
-- 📚 Acredito que saber explicar é mais importante que saber fazer
-- 😤 Se algo não funciona, eu fico puto... mas continuo até resolver
+Não me contento em copiar código. Eu preciso entender.
 
 ---
 
@@ -54,23 +47,11 @@ Gosto de entender como as coisas funcionam e transformar o que aprendo em **proj
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 O que estou buscando
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mparise28-dev&show_icons=true&theme=radical)
+Minha primeira oportunidade como **desenvolvedor trainee ou júnior**. Quero entrar no mercado, aprender na prática e evoluir.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mparise28-dev&layout=compact&theme=radical)
-
-**Dados rápidos:**
-- 📝 **Total de Commits:** 316
-- 🔀 **Pull Requests:** 60
-- 🐛 **Issues:** 14
-- 🤝 **Contribuições:** 17 repositórios
-
----
-
-## 🎯 Objetivo
-
-Estou em transição de carreira e buscando minha primeira oportunidade como **desenvolvedor trainee ou júnior**. Quero entrar no mercado, ganhar experiência e evoluir como profissional, sempre com a curiosidade de quem quer entender o *porquê* das coisas.
+E não vou parar de perguntar "por quê".
 
 ---
 
@@ -81,7 +62,5 @@ Estou em transição de carreira e buscando minha primeira oportunidade como **d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelloparise28@gmail.com)
 
 ---
-
-> *"De ensinar o passado a construir o futuro"*
 
 **Bora codar, camarada!** 🚀
