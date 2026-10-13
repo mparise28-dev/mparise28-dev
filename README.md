@@ -1,67 +1,83 @@
-# 👋 Olá, eu sou Marcello Parise
+# Marcello Parise
 
-**Professor de História → Desenvolvedor em formação**
+**Desenvolvedor de Software em formação · FATEC Jacareí**
 
-![Status](https://img.shields.io/badge/Status-Em%20Transição-blueviolet?style=for-the-badge)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mparise28-dev.mparise28-dev)
+Estudante de Desenvolvimento de Software Multiplataforma, com experiência
+prévia em docência e gestão de conteúdo. Busco primeira oportunidade como
+desenvolvedor júnior ou trainee, com interesse em backend, integração de
+sistemas e construção de produtos completos — do banco de dados à interface.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mparise28-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelloparise28@gmail.com)
-
----
-
-## 📖 Sobre mim
-
-Sou professor de História e estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Jacareí.
-
-Passei anos na sala de aula - Fundamental, Ensino Médio e EJA - aprendendo a ler contextos, analisar estruturas e explicar o complexo de forma simples. Habilidades que não ficaram na escola: hoje, aplico tudo isso na programação.
-
-A transição não foi um abandono. Foi uma expansão. A mesma curiosidade que me fez perguntar "por que isso aconteceu?" agora me faz perguntar "por que isso funciona assim?".
-
-Não me contento em copiar código. Eu preciso entender.
+📍 Jacare[i, SP
+📧 marcelloparise28@gmail.com
+🔗 [linkedin.com/in/marcello-parise-campbell-fonseca](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Stack
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+React · TypeScript · JavaScript · HTML5 · CSS3
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend**
+Python · FastAPI · Node.js · Express
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Banco de dados**
+PostgreSQL · SQLite
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Ferramentas**
+Git · GitHub · Docker · Jupyter · Vite · ESLint
 
 ---
 
-## 🎯 O que estou buscando
+## Projetos
 
-Minha primeira oportunidade como **desenvolvedor trainee ou júnior**. Quero entrar no mercado, aprender na prática e evoluir.
+### ScrumFlow — Portal de Certificação em Metodologias Ágeis
+Portal web de certificação interna em metodologias ágeis, desenvolvido em equipe
+de sete pessoas ao longo de três sprints. Usuários se cadastram, realizam
+avaliações progressivas por módulos de dificuldade crescente e, ao concluir,
+recebem um certificado digital validável publicamente via hash único. Inclui
+painel administrativo com CRUD de questões e gestão de tentativas, autenticação
+com JWT e banco PostgreSQL com DDL/DML explícitos (sem ORM).
 
-E não vou parar de perguntar "por quê".
+`Node.js` `Express` `PostgreSQL` `JWT` `HTML5` `CSS3` `JavaScript` `Scrum`
+
+→ [github.com/DEVassos/scrum-flow-abp](https://github.com/DEVassos/scrum-flow-abp)
+
+### Relógio Complexo — React + Python + FastAPI
+Relógio analógico que representa os ponteiros como números complexos no plano
+de Argand-Gauss. Backend em Python/FastAPI calcula os ângulos e coordenadas
+a partir de rotações complexas; frontend em React/TypeScript consome a API e
+desenha os ponteiros em SVG. Inclui simulação de tempo, ajuste de hora,
+sincronização com horário de Brasília e alarme com sinalização visual e sonora.
+
+`React` `TypeScript` `Python` `FastAPI` `SVG` `REST API`
+
+→ [github.com/mparise28-dev/relogio-complexo](https://github.com/mparise28-dev/relogio-complexo)
 
 ---
 
-## 📬 Vamos conversar?
+## Experiência
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mparise28-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelloparise28@gmail.com)
+**Professor de História** — Rede pública e particular (2022 - presente)
+Docência no Ensino Fundamental, Médio e EJA. Desenvolvimento de material
+didático, gestão de turmas e comunicação de conteúdo complexo para públicos
+diversos — competências que hoje aplico em documentação técnica, revisão de
+código e apresentação de projetos.
 
 ---
 
-**Bora codar, camarada!** 🚀
+## Formação
+
+**Tecnólogo em Desenvolvimento de Software Multiplataforma**
+FATEC Jacareí — em andamento
+
+**Licenciatura em História**
+UNIP — 2019 a 2023
+
+---
+
+## Contato
+
+- LinkedIn: [marcello-parise-campbell-fonseca](https://www.linkedin.com/in/marcello-parise-campbell-fonseca-147965194/)
+- GitHub: [@mparise28-dev](https://github.com/mparise28-dev)
+- Email: marcelloparise28@gmail.com
